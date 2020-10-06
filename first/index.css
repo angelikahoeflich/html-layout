@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  background-color: red;
+  width: 100vw;
+  height: 100vh;
+}
+
+.header {
+  width: 100vw;
+  height: 20vh;
+  background-color:black;
+  
+}
+
+.stuff-inside {
+  background-color: white;
+  margin: 0 auto;
+  width: 75%;
+  height: 70vh;
+  float:none;
+  
+}
+
+.footer { 
+  background-color:grey;
+  margin: 0 auto;
+  width: 75vw;
+  height: 10vh;
+  clear:both;
+}
