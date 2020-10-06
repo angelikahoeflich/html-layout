@@ -1,0 +1,30 @@
+body{
+  margin:0;
+  padding: 0;
+}
+
+.top {
+  border: 3px solid black;
+  width:90%;
+  height:100px;
+  padding:20px;
+  margin:10px auto;
+}
+#rectangle-1{
+  width:30px;
+  height:100px;
+  background-color: purple;
+}
+#rectangle-2{
+  width:200px;
+  height:400px;
+  background-color: green;
+  display: block;
+}
+
+#circle{
+  width: 50px;
+  height:50px;
+  background-color: lightblue;
+  border-radius: 50%;
+}
