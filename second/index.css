@@ -27,6 +27,7 @@ div{
   background-color: green;
   display: block;
   padding: 15px 20px;
+  margin:3px;
 }
 
 #circle{
